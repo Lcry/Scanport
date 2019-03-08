@@ -24,9 +24,9 @@
             'IMAP',
             'Https',
             'Microsoft-DS',
-			      'BT',
+	    'BT',
             'MSSQL',
             'MYSQL',
-		      	'Terminal Services'
+	    'Terminal Services'
         );
 ```
